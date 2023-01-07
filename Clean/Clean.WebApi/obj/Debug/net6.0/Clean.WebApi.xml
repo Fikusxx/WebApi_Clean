@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Clean.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Clean.WebApi.Controllers.NoteController.GetAll">
+            <summary>
+            Get list of all notes.
+            </summary>
+            <remarks>
+            Extra info.
+            </remarks>
+            <returns> </returns>
+            <response code="200"> Code 200 description </response>
+            <response code="401"> Code 401 description </response>
+        </member>
+        <member name="M:Clean.WebApi.Controllers.NoteController.Get(System.Guid)">
+            <summary>
+            Get list of all notes.
+            </summary>
+            <remarks>
+            Extra info.
+            </remarks>
+            <returns> </returns>
+            <param name="id">Id of the note </param>
+            <response code="200"> Code 200 description </response>
+            <response code="401"> Code 401 description </response>
+        </member>
+    </members>
+</doc>

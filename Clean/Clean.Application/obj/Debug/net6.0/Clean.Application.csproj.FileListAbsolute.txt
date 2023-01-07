@@ -1,0 +1,15 @@
+C:\ASP\Web API #1\Clean\Clean.Application\bin\Debug\net6.0\Clean.Application.deps.json
+C:\ASP\Web API #1\Clean\Clean.Application\bin\Debug\net6.0\Clean.Application.dll
+C:\ASP\Web API #1\Clean\Clean.Application\bin\Debug\net6.0\Clean.Application.pdb
+C:\ASP\Web API #1\Clean\Clean.Application\bin\Debug\net6.0\Clean.Domain.dll
+C:\ASP\Web API #1\Clean\Clean.Application\bin\Debug\net6.0\Clean.Domain.pdb
+C:\ASP\Web API #1\Clean\Clean.Application\obj\Debug\net6.0\Clean.Application.csproj.AssemblyReference.cache
+C:\ASP\Web API #1\Clean\Clean.Application\obj\Debug\net6.0\Clean.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP\Web API #1\Clean\Clean.Application\obj\Debug\net6.0\Clean.Application.AssemblyInfoInputs.cache
+C:\ASP\Web API #1\Clean\Clean.Application\obj\Debug\net6.0\Clean.Application.AssemblyInfo.cs
+C:\ASP\Web API #1\Clean\Clean.Application\obj\Debug\net6.0\Clean.Application.csproj.CoreCompileInputs.cache
+C:\ASP\Web API #1\Clean\Clean.Application\obj\Debug\net6.0\Clean.Application.csproj.CopyComplete
+C:\ASP\Web API #1\Clean\Clean.Application\obj\Debug\net6.0\Clean.Application.dll
+C:\ASP\Web API #1\Clean\Clean.Application\obj\Debug\net6.0\refint\Clean.Application.dll
+C:\ASP\Web API #1\Clean\Clean.Application\obj\Debug\net6.0\Clean.Application.pdb
+C:\ASP\Web API #1\Clean\Clean.Application\obj\Debug\net6.0\ref\Clean.Application.dll
